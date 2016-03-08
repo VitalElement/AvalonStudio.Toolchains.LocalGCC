@@ -1,10 +1,10 @@
 {
-  "Name": "AvalonStudio.Toolchains.STM32",
-  "Description": "GCC based toolchain for STM32. arm-none-eabi",
-  "RepoUrl": "http://github.com/VitalElement/AvalonStudio.Toolchains.STM32.git",
+  "Name": "AvalonStudio.Toolchains.LocalGCC",
+  "Description": "GCC based toolchain for Windows MinGW",
+  "RepoUrl": "http://github.com/VitalElement/AvalonStudio.Toolchains.LocalGCC.git",
   "Tags": [
-    "Linux-Slow-v0.03-5.2.1",
-    "Win32-Slow-v0.03-5.2.1",
-    "Win32-Slow-v0.01-4.9.3"
+    "Win32-x86-5.3.0",
+    "Linux-x86-5.3.0",
+    "Linux-armhf-5.3.0"
   ]
 }
